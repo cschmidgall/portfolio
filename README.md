@@ -9,6 +9,3 @@ This portfolio will have the following sections:
     Work experience
     Github projects
     Contact me
-
-Testing Develop Branch
-
